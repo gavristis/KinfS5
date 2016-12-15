@@ -1,0 +1,10 @@
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\bin\Debug\KInfS5.exe.config
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\bin\Debug\KInfS5.exe
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\bin\Debug\KInfS5.pdb
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\obj\Debug\KInfS5.Form1.resources
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\obj\Debug\KInfS5.Properties.Resources.resources
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\obj\Debug\KInfS5.csproj.GenerateResource.Cache
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\obj\Debug\KInfS5.exe
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\obj\Debug\KInfS5.pdb
+c:\Users\gavristis\documents\visual studio 2015\Projects\KInfS5\KInfS5\obj\Debug\KInfS5.csprojResolveAssemblyReference.cache
